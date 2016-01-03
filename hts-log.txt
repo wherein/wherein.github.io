@@ -1,0 +1,21 @@
+HTTrack3.48-18+htsswf+htsjava launched on Wed, 02 Dec 2015 11:07:17 at http://wherein.zento.fr/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC0%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" http://wherein.zento.fr/ -O1 "C:\Users\Bruno\Downloads\Compressed\X-WinHTTrack_3.48-18_rev8\Downloads\WinHTTrack\Wherein" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:11:42	Error: 	"Service Temporarily Unavailable" (503) at link wherein.zento.fr/xmlrpc.php?rsd (from wherein.zento.fr/)
+11:11:48	Error: 	"Not Found" (404) at link wherein.zento.fr/bl/ (from wherein.zento.fr/wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8)
+11:11:48	Error: 	"Not Found" (404) at link wherein.zento.fr/7m://eF.eG.3U/eB/4/5P-2a-eA/ (from wherein.zento.fr/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.3.2)
+11:11:48	Error: 	"Not Found" (404) at link wherein.zento.fr/9V/ (from wherein.zento.fr/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.3.2)
+11:11:48	Error: 	"Not Found" (404) at link wherein.zento.fr/2s/ (from wherein.zento.fr/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.3.2)
+11:11:48	Error: 	"Not Found" (404) at link wherein.zento.fr/5P/cU/ (from wherein.zento.fr/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.3.2)
+11:11:48	Error: 	"Not Found" (404) at link wherein.zento.fr/TweenLite.js (from wherein.zento.fr/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?ver=4.6.5)
+11:11:48	Error: 	"Not Found" (404) at link wherein.zento.fr/Version/ (from wherein.zento.fr/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?ver=4.6.5)
+11:11:58	Error: 	"Not Found" (404) at link wherein.zento.fr/youtu.be/ (from wherein.zento.fr/wp-content/themes/Avada/js/jquery.prettyPhoto-min.js?ver=3.7.3)
+11:11:58	Error: 	"Not Found" (404) at link wherein.zento.fr/Popover requires tooltip.js (from wherein.zento.fr/wp-content/themes/Avada/js/main.js?ver=3.7.3)
+
+HTTrack Website Copier/3.48-18 mirror complete in 4 minutes 47 seconds : 138 links scanned, 125 files written (7781650 bytes overall) [7834243 bytes received at 27297 bytes/sec], 3585 bytes transferred using HTTP compression in 4 files, ratio 30%, 1.8 requests per connection
+(10 errors, 0 warnings, 0 messages)
